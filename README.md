@@ -6,5 +6,3 @@ How To:
 2. second clicks and above will display the time differences between consecutive clicks 
 
 https://youtu.be/m68AliR-Zus
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m68AliR-Zus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
